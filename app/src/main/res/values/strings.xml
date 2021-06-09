@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OCR</string>
+    <string name="ocr_system">OCR SYSTEM</string>
+    <string name="fast_scanning_system">Fast Scanning System</string>
+    <string name="scan">SCAN</string>
+    <string name="analytic">Analytic</string>
+</resources>
