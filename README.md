@@ -20,6 +20,9 @@ During Covid-19, document management, especially birth certificate documents, wa
 
 <img src="https://user-images.githubusercontent.com/66357421/121186304-87461280-c899-11eb-8725-232327669089.png" width="300" height="550" >
 
+#### Resource
+https://journal.nurulfikri.ac.id/index.php/jit/article/view/60
+
 
 ## Important 
 This application has just arrived at the design stage of taking pictures and updating the UI and still in development. The problem that has not been resolved is how to connect firebase with apps so that the captured images can be directly uploaded to firebase and validated.
