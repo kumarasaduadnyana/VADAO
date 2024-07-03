@@ -14,7 +14,7 @@ During Covid-19, document management, especially birth certificate documents, wa
 
 #### Scan Photo
 
-<img src="https://user-images.githubusercontent.com/66357421/121186290-844b2200-c899-11eb-8b57-8e3e2511d8b2.png" width="300" height="550" >
+<img >
 
 #### Validation Document
 
